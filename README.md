@@ -1,7 +1,7 @@
 
 ### PERHATIAN
 - **gunakan domain sendiri jika ingin menginstal script karna domain otomatis sudah expired jika di paksakan mengunakan domain otomatis akan terjadi error**
-- sebelum menginstal masukan ip di file izin untuk mendapatkan izin install script 
+- **sebelum menginstal masukan ip di file izin untuk mendapatkan izin install script** 
 
 ### INSTALL SCRIPT
 <pre><code>wget https://raw.githubusercontent.com/cmdecho/vip/main/premi.sh && chmod +x premi.sh && ./premi.sh</code></pre>
