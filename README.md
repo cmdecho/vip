@@ -20,3 +20,9 @@
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
+### INFO FITUR
+```
+- LIMIT QOUTA
+- LIMIT IP
+- BOT TELEGRAM
+```
